@@ -36,8 +36,12 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ParzivalSANN&show_icons=true&theme=radical&hide_border=true" alt="Berkay's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParzivalSANN&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=ParzivalSANN&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ParzivalSANN&show_icons=true&theme=radical&hide_border=true&v=1" alt="Berkay's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParzivalSANN&layout=compact&theme=radical&hide_border=true&v=1" alt="Top Languages" />
 </p>
 
 ### 📫 Let's Connect!
